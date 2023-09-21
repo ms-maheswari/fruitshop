@@ -43,7 +43,7 @@ const Appbar = () => {
               </a>
             </li>
             <li className="menu">
-              <a href="https://vegetable-shop-rust.vercel.app/" className="font-body">
+              <a href="#" className="font-body">
                 Vegetables
               </a>
             </li>
